@@ -17,5 +17,5 @@ In addition to the main simulation files, a vector operation class is included f
 Like mentioned, a large red ball is included in the scene to better demonstate the cloth-like behavior of the sheet. 
 Once the simulation is running, using the '<' and '>' keys, (i.e. ',' and '.') the user can move the red ball forward and backwards, showing the cloth-ball interaction.
 
-## Demo
+## Result
 ![](demo.gif)
